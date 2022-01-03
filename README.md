@@ -1,8 +1,8 @@
-# :zap: inventory-management-system
+# :page_facing_up: inventory-management-system
 
 This system is developed with custom JWT authentication and authorization including the CRUD APIs to manage inventories in a shop.
 
-## :Technologies: 
+## Technologies: 
 
 * Spring Boot and JPA
 * React JS
